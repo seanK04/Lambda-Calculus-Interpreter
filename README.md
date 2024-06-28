@@ -9,10 +9,6 @@ This project was inspired by my experience in taking a functional programming-ce
 ## Features
 
 - **Variable Binding**: Handle variable references within expressions.
-
-## Features
-
-- **Variable Binding**: Handle variable references within expressions.
 - **Function Application**: Apply functions to arguments.
 - **Alpha Conversion**: Ensure unique variable names to avoid clashes.
 - **Beta Reduction**: Evaluate expressions by applying functions to arguments and simplifying them.
