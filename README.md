@@ -4,7 +4,11 @@ A simple lambda calculus interpreter written in Java, featuring core functionali
 
 ## Inspiration
 
-This project was inspired by my experience in taking a functional programming-centric introductory course (CSCI 0170) at Brown University last semester. During the course, I built a Racket interpreter using ReasonML, which sparked my interest in interpreters and functional programming. My fascination with Lambda Calculus and its elegance was further fueled by a video by ComputerPhile, leading me to create this interpreter.
+This project was inspired by my experience in taking a functional programming-centric introductory course (CSCI 0170) at Brown University in Fall 2023. During the course, I built a Racket interpreter using ReasonML, which sparked my interest in interpreters and functional programming. My fascination deepened after watching a ComputerPhile video on Lambda Calculus, where I discovered the elegance and theoretical significance of this mathematical framework. These experiences motivated me to create this lambda calculus interpreter.
+
+## Features
+
+- **Variable Binding**: Handle variable references within expressions.
 
 ## Features
 
